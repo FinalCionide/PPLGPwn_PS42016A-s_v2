@@ -37,6 +37,21 @@ type chmod +x ./install.sh
 
  This will delete the file so you can run WGET. This usually happens when you have tried a few branches of the same code.
 
+ FINAL NOTE PLEASE READ AS ITS IMPORTANT!!
+ - YOU WILL MOST LIKELY GET AN ERROR SAYING /media/internal/downloads/PPLGPwn_PS42016A-s-main or PPPwn / run.sh does not exist
+ - this is intentional, i made a mistake in my code and i cant seem to fix it, however dont worry this is the final step.
+ - after you get the error TYPE:
+
+   cd /      WILL SHOW THE LOCAL DRIVE
+   then type
+   cd media/internal/downloads/       HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
+   Basically im an idiot and i messed up here with the release typo.. but just type;
+
+   mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
+
+   ALL DONE, type CLEAR, then RUN WGET
+   
+
  
 
 # PPLGPwn
