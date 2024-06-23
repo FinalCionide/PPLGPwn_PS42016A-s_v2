@@ -15,6 +15,23 @@ and the original author of this branch.
 Credits 
 FinalCionide for helping Mac users with this updated CURL for the original project for PS4 users with consoles model: 2016A.
 
+HOW DO I USE THIS?
+Download iTerm2 Mac OS
+type for example:   ssh root@192.168.1.195     (THE IP IS YOUR PS4 IP)
+type the password:  alpine
+
+run command  WGET;
+
+wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh
+it will show this 100% |********************************|
+
+type chmod +x ./install.sh
+ this makes the files we just downloading executable since its a shell script.
+
+ run the program via the console now  TYPE:  ./install.sh
+
+ If you miss this step on mac os, you will get Permission Denied. 
+ 
 
 # PPLGPwn
 A method of executing PPPwn through rooted LGTV's.
@@ -45,8 +62,10 @@ Secondly, after you jailbreak your own TV (ironic on how we use a jailbroken TV 
 
 ```
 FOR THIS FORK BY FinalCionide use: 
-wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh && source ./install.sh
+wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh 
 ```
+Ive depriciated the need for 
+&& source ./install.sh ( Ignore this )
 
 **Connect your PS4 to your TV through the Ethernet port, and go in your PS4 set up LAN > PPPoE, and the exploit should be working!**
 
