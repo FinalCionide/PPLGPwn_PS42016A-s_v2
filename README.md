@@ -54,8 +54,35 @@ type chmod +x ./install.sh
 
    mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
 
-   ALL DONE, type CLEAR, then RUN WGET
-   Simply put we are just fixing the minor typo by renaming the folder with the MV command, rm is depreciated for some reason on the television.
+   ALL DONE HERE, type CLEAR, then RUN WGET
+
+   wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh
+
+it will show this 100% |********************************|
+
+type chmod +x ./install.sh
+     -  this makes the files we just downloading executable since its a shell script.
+
+ run the program via the console now  TYPE:  ./install.sh
+
+
+IMPORTANT PART: IT WILL ASK:  PPLGPwn already installed, reinstall? [y/N]
+
+TYPE N  ( Because we renamed the release folder )
+
+YOU ARE NOW READY TO RUN THE PROGRAM..
+
+PLUG IN AN ETHERNET CABLE INTO THE PS4 System and the other end into the back of the LG TV ethernet port and run the program after hitting test connection in PS4 settings
+
+that will send the signal to the RJ45 ports and will start the exploit. 
+
+There are some issues..
+- Sometimes PS4 will shut down : Reboot and try again.
+- Program hangs : Just reload the ssh.
+- Program hangs : Your tv turned off and SSH is closed
+
+  Not known, version 10.50 if you find this works just let me know and ill add credit.
+
    
 I will upload a video to you tube showing this method, good luck
 if this helped you please leave credit to myself and those on the main project including
