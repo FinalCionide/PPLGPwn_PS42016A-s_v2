@@ -31,7 +31,12 @@ type chmod +x ./install.sh
 
  run the program via the console now  TYPE:  ./install.sh
 
- If you miss this step on mac os, you will get Permission Denied. 
+ If you miss this step on mac os, you will get Permission Denied.
+
+ NOTE IF YOU GET CANT DOWNLOAD (FILE install.sh Already exists)  type: rm install.sh
+
+ This will delete the file so you can run WGET. This usually happens when you have tried a few branches of the same code.
+
  
 
 # PPLGPwn
