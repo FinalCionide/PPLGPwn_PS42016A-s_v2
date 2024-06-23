@@ -27,7 +27,7 @@ wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Releas
 it will show this 100% |********************************|
 
 type chmod +x ./install.sh
- this makes the files we just downloading executable since its a shell script.
+     -  this makes the files we just downloading executable since its a shell script.
 
  run the program via the console now  TYPE:  ./install.sh
 
