@@ -17,7 +17,7 @@ FinalCionide for helping Mac users with this updated CURL for the original proje
 
 HOW DO I USE THIS?
 Download iTerm2 Mac OS
-type for example:   ssh root@192.168.1.195     (THE IP IS YOUR PS4 IP)
+type for example:   ssh root@192.168.1.195     (THE IP IS YOUR LG TELEVISION IP)
 type the password:  alpine
 
 run command  WGET;
