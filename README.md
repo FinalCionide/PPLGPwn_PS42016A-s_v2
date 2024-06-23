@@ -5,6 +5,8 @@ This is a fork of PPPwn (-> PPLGPwn) which works on LG tvs which uses the RJ45 p
 If you have an LG tv, great. 
 If you DONT have an LG tv, Go back to google for your situation, this is for LG WEB OS.
 
+This is for PS4 Model 2016A Slim Running FW 11.00 only.
+
 Using Mac OS SSH to your television isn't the wisest option, if you keep getting WAITING FOR STAGE 2 shut off PS4 every time, 
 this fork may help via ssh. 
 
@@ -52,11 +54,11 @@ type chmod +x ./install.sh
       HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
    Basically im an idiot and i messed up here with the release typo.. but just type;
 
-   mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
+   mv PPLGPwn_PS42016A-s_v2-main-main PPLGPwn_PS42016A-s_v2-main
 
    ALL DONE HERE, type CLEAR, then RUN WGET
 
-   wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh
+   wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s_v2/releases/download/Release/install.sh
 
 it will show this 100% |********************************|
 
@@ -80,8 +82,6 @@ There are some issues..
 - Sometimes PS4 will shut down : Reboot and try again.
 - Program hangs : Just reload the ssh.
 - Program hangs : Your tv turned off and SSH is closed
-
-  Not known, version 10.50 if you find this works just let me know and ill add credit.
 
    
 I will upload a video to you tube showing this method, good luck
