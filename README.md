@@ -45,7 +45,11 @@ type chmod +x ./install.sh
    cd /  
         WILL SHOW THE LOCAL DRIVE
    then type
-   cd media/internal/downloads/       HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
+   cd media/internal/downloads/
+
+   THEN TYPE: ls
+
+      HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
    Basically im an idiot and i messed up here with the release typo.. but just type;
 
    mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
