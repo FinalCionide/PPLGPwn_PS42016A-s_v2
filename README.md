@@ -11,7 +11,7 @@ POC
 Thanks to the main creator ive forked his project to run on a specific console.
 A lot of users who own MAC OS Laptop or computer don't have access to windows or an ethernet port.
 
-This is a fork of PPPwn (-> PPLGPwn) which works on LG tvs which uses the RJ45 port to communicate over PPPoE
+This is a fork of PPPwn (-> PPLGPwn) -> My port - PPLGPwn_PS42016A-s (v1)  which works on LG tvs which uses the RJ45 port to communicate over PPPoE
 If you have an LG tv, great. 
 If you DONT have an LG tv, Go back to google for your situation, this is for LG WEB OS.
 
