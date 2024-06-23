@@ -1,3 +1,10 @@
+IMPORTANT (TLDR)..  YOU MUST INSTALL v1 First and then install this version on top, its pretty straight forward. 
+Otherwise you WILL get the cant find settings file  error.
+TLDR. install v1 first linked here: https://github.com/FinalCionide/PPLGPwn_PS42016A-s
+
+Then install this version. 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 Thanks to the main creator ive forked his project to run on a specific console.
 A lot of users who own MAC OS Laptop or computer don't have access to windows or an ethernet port.
 
