@@ -51,9 +51,16 @@ type chmod +x ./install.sh
    mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
 
    ALL DONE, type CLEAR, then RUN WGET
+   Simply put we are just fixing the minor typo by renaming the folder with the MV command, rm is depreciated for some reason on the television.
    
+I will upload a video to you tube showing this method, good luck
+if this helped you please leave credit to myself and those on the main project including
 
- 
+SiSTRo / SiSTR0   
+ llbranco
+  zauceee
+   Kodeine$
+    FinalCionide
 
 # PPLGPwn
 A method of executing PPPwn through rooted LGTV's.
