@@ -42,7 +42,8 @@ type chmod +x ./install.sh
  - this is intentional, i made a mistake in my code and i cant seem to fix it, however dont worry this is the final step.
  - after you get the error TYPE:
 
-   cd /      WILL SHOW THE LOCAL DRIVE
+   cd /  
+        WILL SHOW THE LOCAL DRIVE
    then type
    cd media/internal/downloads/       HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
    Basically im an idiot and i messed up here with the release typo.. but just type;
