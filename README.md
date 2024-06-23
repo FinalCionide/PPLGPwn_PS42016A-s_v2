@@ -1,3 +1,21 @@
+Thanks to the main creator ive forked his project to run on a specific console.
+A lot of users who own MAC OS Laptop or computer don't have access to windows or an ethernet port.
+
+This is a fork of PPPwn which works on LG tvs which uses the RJ45 port to communicate over PPPoE
+If you have an LG tv, great. 
+If you DONT have an LG tv, Go back to google for your situation, this is for LG WEB OS.
+
+Using Mac OS SSH to your television isn't the wisest option, if you keep getting WAITING FOR STAGE 2 shut off PS4 every time, 
+this fork may help via ssh. 
+
+Credits
+To creator of goldHEN
+and the original author of this branch.
+
+Credits 
+FinalCionide for helping Mac users with this updated CURL for the original project for PS4 users with consoles model: 2016A.
+
+
 # PPLGPwn
 A method of executing PPPwn through rooted LGTV's.
 This method is using the C++ version of PPPwn, made by xfangfang, the link to the repo it's this one:
