@@ -61,12 +61,12 @@ type chmod +x ./install.sh
 
    THEN TYPE: ls
 
-      HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s-main-main
+      HERE YOU WILL SEE A FOLDER named  PPLGPwn_PS42016A-s_v2-main-main
    Basically im an idiot and i messed up here with the release typo.. but just type;
 
    mv PPLGPwn_PS42016A-s_v2-main-main PPLGPwn_PS42016A-s_v2-main
 
-   ALL DONE HERE, type CLEAR, then RUN WGET
+   ALL DONE HERE, type CLEAR, then type WGET
 
    wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s_v2/releases/download/Release/install.sh
 
@@ -93,6 +93,8 @@ There are some issues..
 - Program hangs : Just reload the ssh.
 - Program hangs : Your tv turned off and SSH is closed
 
+- Reliabilty of this exploit v2 99% 
+
    
 I will upload a video to you tube showing this method, good luck
 if this helped you please leave credit to myself and those on the main project including
@@ -101,7 +103,7 @@ SiSTRo / SiSTR0
  llbranco
   zauceee
    Kodeine$
-    FinalCionide
+    FinalCionide    For this custom port.
 
 # PPLGPwn
 A method of executing PPPwn through rooted LGTV's.
