@@ -23,6 +23,7 @@ type the password:  alpine
 run command  WGET;
 
 wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh
+
 it will show this 100% |********************************|
 
 type chmod +x ./install.sh
