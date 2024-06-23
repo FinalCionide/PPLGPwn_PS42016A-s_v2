@@ -4,6 +4,9 @@ TLDR. install v1 first linked here: https://github.com/FinalCionide/PPLGPwn_PS42
 
 Then install this version. 
 -----------------------------------------------------------------------------------------------------------------------------------
+POC
+
+<img width="497" alt="Screenshot 2024-06-23 at 21 53 57" src="https://github.com/FinalCionide/PPLGPwn_PS42016A-s_v2/assets/100882399/ecd46d7a-2fa4-47f6-b38e-e0334ca7d949">
 
 Thanks to the main creator ive forked his project to run on a specific console.
 A lot of users who own MAC OS Laptop or computer don't have access to windows or an ethernet port.
