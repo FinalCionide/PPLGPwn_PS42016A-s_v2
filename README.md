@@ -100,6 +100,7 @@ There are some issues..
 - PS4 CUH-1116A (Phat model) Credit to Reddit user: naczelnyprezes via post: https://www.reddit.com/r/ps4homebrew/comments/1dmnecg/comment/la173h5/
   There are some issues..
 - Will take multiple attempts to retry. 1 - 6 times. but due to the code, the is a function to auto-retry. SOLVED.
+  The exploit is successful after auto-retry on PS4 CUH-1116A  Phat model
 
 
    
